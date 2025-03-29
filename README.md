@@ -1,6 +1,4 @@
-Here’s a polished and professional `README.md` file tailored to your profile. This will serve as an excellent introduction to your GitHub profile, showcasing your skills, education, projects, and achievements.
 
----
 
 # 👋 Hi there, I'm **K.V.V. Satyanarayana Reddy**!
 
