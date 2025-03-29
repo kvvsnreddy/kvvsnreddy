@@ -57,16 +57,7 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring software dev
 - Embedded virtual tour videos using **Bootstrap Embed Component**.  
 **Tech Stack**: HTML, CSS, Bootstrap  
 
-### ☁️ **Cloud Infrastructure Deployment using AWS**
-**Description**: Deployed and managed cloud infrastructure using AWS services.  
-**Features**:  
-- Utilized **EC2** for compute resources.  
-- Stored data in **S3** buckets.  
-- Managed relational databases using **RDS**.  
 
-### 🗄️ **Database Optimization Project**
-**Description**: Optimized SQL queries and performed database tuning to improve performance by **30%**.  
-**Skills Gained**: Query optimization, indexing, and database performance tuning.
 
 ---
 
