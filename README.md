@@ -88,9 +88,8 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring software dev
 
 I’m always open to new opportunities, collaborations, and discussions. Feel free to reach out to me:
 
-- **Email**: [kvvsnreddy123hai@gmail.com](mailto:kvvsnreddy123hai@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/kovvuri-veera-venkata-satyanarayana-reddy](https://www.linkedin.com/in/kovvuri-veera-venkata-satyanarayana-reddy-562407229)  
-- **Phone**: +91 9494591238 
+
 
 
 
