@@ -1,6 +1,6 @@
 
 
-# 👋 Hi there, I'm **K.V.V. Satyanarayana Reddy**!
+# 👋 Hi there, I'm **KOVVURI VEERA VEENKATA SATYANARAYANA REDDY**!
 
 Welcome to my GitHub profile! I'm a passionate learner and aspiring software developer specializing in **Frontend Development**, **Backend Development**, and **Cloud Infrastructure**. I'm currently pursuing my degree in **Computer Science and Engineering** at **Pragati Engineering College**, Surampalam, with an expected graduation date of May 2025.
 
